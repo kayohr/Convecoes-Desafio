@@ -1,0 +1,15 @@
+/home/est/doteNetC#/projetos-desafios/desafios/bin/Debug/net6.0/desafios
+/home/est/doteNetC#/projetos-desafios/desafios/bin/Debug/net6.0/desafios.deps.json
+/home/est/doteNetC#/projetos-desafios/desafios/bin/Debug/net6.0/desafios.runtimeconfig.json
+/home/est/doteNetC#/projetos-desafios/desafios/bin/Debug/net6.0/desafios.dll
+/home/est/doteNetC#/projetos-desafios/desafios/bin/Debug/net6.0/ref/desafios.dll
+/home/est/doteNetC#/projetos-desafios/desafios/bin/Debug/net6.0/desafios.pdb
+/home/est/doteNetC#/projetos-desafios/desafios/obj/Debug/net6.0/desafios.csproj.AssemblyReference.cache
+/home/est/doteNetC#/projetos-desafios/desafios/obj/Debug/net6.0/desafios.GeneratedMSBuildEditorConfig.editorconfig
+/home/est/doteNetC#/projetos-desafios/desafios/obj/Debug/net6.0/desafios.AssemblyInfoInputs.cache
+/home/est/doteNetC#/projetos-desafios/desafios/obj/Debug/net6.0/desafios.AssemblyInfo.cs
+/home/est/doteNetC#/projetos-desafios/desafios/obj/Debug/net6.0/desafios.csproj.CoreCompileInputs.cache
+/home/est/doteNetC#/projetos-desafios/desafios/obj/Debug/net6.0/desafios.dll
+/home/est/doteNetC#/projetos-desafios/desafios/obj/Debug/net6.0/ref/desafios.dll
+/home/est/doteNetC#/projetos-desafios/desafios/obj/Debug/net6.0/desafios.pdb
+/home/est/doteNetC#/projetos-desafios/desafios/obj/Debug/net6.0/desafios.genruntimeconfig.cache
